@@ -1,0 +1,15 @@
+.box{
+  border-radius: 5px;
+  border-color:skyblue;
+  border-style: solid;
+  margin:5px;
+  padding:5px;
+  background-image: url("https://cdn.pixabay.com/photo/2022/03/18/17/38/pattern-7077094_1280.png");
+  background-size: cover;
+  width:100%;
+  text-align: center;
+}
+
+h1{
+  font-size:  2rem;
+}
